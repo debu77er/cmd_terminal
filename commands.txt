@@ -1,2 +1,6 @@
 gcc -print-prog-name=cc1plus -v
 //displays from where gcc takes headers
+
+`gcc -print-prog-name=cpp` -v        //` is on ~
+
+`gcc -print-prog-name=cc1plus` -v
